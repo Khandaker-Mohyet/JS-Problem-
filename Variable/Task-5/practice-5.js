@@ -12,4 +12,13 @@ const money = 60;
 const usedAllTime = 15;
 const usedTotal = money / usedAllTime;
 const genitalResidue = money % usedAllTime;
-console.log(genitalResidue, usedTotal)
+// console.log(genitalResidue, usedTotal)
+
+const hello = "Hello";
+const world = "World";
+// console.log(hello + world)
+
+
+const rice = 153;
+const Lentils = 261;
+console.log(rice + rice)
