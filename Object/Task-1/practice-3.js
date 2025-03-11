@@ -1,6 +1,5 @@
-const tree = {
-  name: "Mango",
-  heightInMeter: 120,
-  age: 53,
-  nameOfFruits: "Man-Go",
+const cow = {
+  name: "Naymar",
+  color: "Black",
+  age: "6 month",
 }
