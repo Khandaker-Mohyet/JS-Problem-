@@ -3,4 +3,4 @@
 */
 
 
-consolel.log('This is some change for daily commit')
+consolel.log('This ')
