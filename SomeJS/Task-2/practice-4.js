@@ -3,4 +3,4 @@
 */
 
 
-consolel.log('This is new')
+consolel.log('This is new commit')
