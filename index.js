@@ -1,4 +1,4 @@
-// console.log("Khandaker Mohyet js Journy")
+console.log("Khandaker Mohyet js Journy")
 
 // One
 // console.log("start");
