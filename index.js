@@ -65,9 +65,9 @@
 // console.log(numbers)
 
 // twenty two
-// const x = 10;
-// function foo() {
-//   console.log(x);
-//   const x = 20;
-// }
-// foo()
+const x = 10;
+function foo() {
+  console.log(x);
+  const x = 20;
+}
+foo()
